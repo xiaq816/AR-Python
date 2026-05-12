@@ -1,0 +1,5 @@
+# opencv-python   
+# scipy   
+# torchvision==0.21.0
+# torch==2.6.0
+pytorch3d @ git+https://gitee.com/gastrodia/pytorch3d.git
